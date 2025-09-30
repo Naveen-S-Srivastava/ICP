@@ -12,5 +12,9 @@ This repository contains my ICP solutions and implementations. The projects incl
   - Merge Sorted Array
   - Kth Largest Element in an Array
   - Valid Perfect Square
+- `Day3/` : Contains code and solutions implemented on Day 2.
+  - Number of Islands
+  - Search a 2D matrix
+  - Spiral Matrix
 ## Language Used
 - Java
