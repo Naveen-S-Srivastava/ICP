@@ -16,5 +16,11 @@ This repository contains my ICP solutions and implementations. The projects incl
   - Number of Islands
   - Search a 2D matrix
   - Spiral Matrix
+- `Day4/` : Contains code and solutions implemented on Day 2.
+  - Find all arguments in a String
+  - Permutation in String 
+  - Find All Anagrams in a String
+  - Longest Repeating Character Replacement
+  - Max Consecutive Ones III
 ## Language Used
 - Java
