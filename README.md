@@ -1,9 +1,10 @@
 # 📘 ICP Repository  
 
 ![Language](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java)  
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/icp-repo?color=blueviolet)  
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/icp-repo?color=brightgreen)  
-![Stars](https://img.shields.io/github/stars/yourusername/icp-repo?style=social)  
+![Repo Size](https://img.shields.io/github/repo-size/Naveen-S-Srivastava/ICP?color=blueviolet)  
+![Last Commit](https://img.shields.io/github/last-commit/Naveen-S-Srivastava/ICP?color=brightgreen)  
+![Stars](https://img.shields.io/github/stars/Naveen-S-Srivastava/ICP?style=social)  
+
 
 ---
 
