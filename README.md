@@ -55,6 +55,12 @@ The goal of this repo is to **organize daily problem-solving progress** and serv
   - Maximum Subarray  
   - Unique Paths  
   - House Robbers
+
+- **`Day8/`**  
+  - Reverse Polish Notation  
+  - Online Stock Span  
+  - Simplify Path
+
   
 
 ---
