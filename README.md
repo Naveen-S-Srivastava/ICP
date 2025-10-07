@@ -49,7 +49,13 @@ The goal of this repo is to **organize daily problem-solving progress** and serv
 - **`Day6/`**  
   - Word Search  
   - Combinations  
-  - Combination Sum II  
+  - Combination Sum II
+    
+- **`Day7/`**  
+  - Maximum Subarray  
+  - Unique Paths  
+  - House Robbers
+  
 
 ---
 
